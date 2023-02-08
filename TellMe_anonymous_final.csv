@@ -1,117 +1,115 @@
-section,majors,double_major,major1,major2,cs105,python_comfort,goals_char,topics
-D,"Accountancy,Finance",1,Accountancy,Finance,0,4,85,Not sure any specifics because I am new to it. 
-D,Accountancy,0,Accountancy,,1,2,91,Mainly Python
-H,Finance,0,Finance,,1,2,218,Not specifically.
-H,"Marketing,Supply Chain Management",1,Marketing,Supply Chain Management,1,1,175,I want to learn about the basics of Python because it is a programming language that is very often used. 
-L,Marketing,0,Marketing,,0,2,247,I definitely want to learn more about python and become more comfortable using it.
-D,Accountancy,0,Accountancy,,1,3,48,
-D,Marketing,0,Marketing,,0,2,52,Python 
-H,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,98,No
-L,Accountancy,0,Accountancy,,1,3,142,I have so little knowledge in regards to data science that I am interested in learning anything about it!
-H,"Information Systems,Supply Chain Management",1,Information Systems,Supply Chain Management,1,2,286,I wouldn't say that there is something specific that I'm looking for in this course but I'm definitely looking forward to learning more about coding.
-H,"Accountancy,Finance",1,Accountancy,Finance,1,5,98,I want to know more about dataframe
-L,"Accountancy,Finance",1,Accountancy,Finance,0,2,139,Python and data analysis.
-L,Marketing,0,Marketing,,1,3,166,I would like to become comfortable with python and excel.
-L,"Accountancy,Finance",1,Accountancy,Finance,1,4,74,I am open to anything!
-L,"Information Systems,Marketing",1,Information Systems,Marketing,1,1,145,Introductory Python
-D,"Information Systems,Marketing",1,Information Systems,Marketing,1,2,224,"None specifically, but I am hoping to apply skills learned from this course to work experience I may pursue as soon as this summer."
-L,"Finance,Information Systems",1,Finance,Information Systems,1,4,199,Just general python skills and learning how to apply that to data sets
-H,Marketing,0,Marketing,,0,2,253,"no specifically, more of just a better understanding on python"
-H,Undeclared,0,Undeclared,,1,2,97,I don't know of any in specific
-D,Accountancy,0,Accountancy,,1,2,27,Data Mining
-H,"Accountancy,Finance",1,Accountancy,Finance,1,1,59,"Python, R and MySQL"
-L,"Finance,Information Systems",1,Finance,Information Systems,1,2,132,Not off the top of my head. I am open to everything.
-H,Finance,0,Finance,,1,2,299,Nothing in particular comes to mind.
-D,"Finance,Information Systems",1,Finance,Information Systems,1,3,51,A greater understanding and comfortability with reading and writing code.
-D,Undeclared,0,Undeclared,,1,4,230,I would like to learn more about data science and I want to be able to refine my python skills as well as learn more about python as a coding language.
-L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,149,"I am interested to learn how to apply the skills we learn in Python into life outside of class, as well as the application of what we learn about data mining and how it relates to business."
-H,Finance,0,Finance,,1,2,196,How to find team efficiency rates for NBA teams.
-H,"Accountancy,Other (If Other\, please share at bottom)",1,Accountancy,SIE,1,5,428,"I am especially interested in the visualization part. Just like accounting, all the number we got is meaningless, how to understand and the decision made based on the number makes these numbers valuable. So, it is really important to know how to show the result as a story to others. This will be really helpful for me if I want to get venture capital because I need to use not only data but also a story to convince them."
-H,"Operations Management,Supply Chain Management",1,Operations Management,Supply Chain Management,1,2,298,"I had attended a sports analytics club meeting on campus last semester in which programming was demonstrated using R, a language and environment for statistical computing. Although I do not know much at all about R, nor have I used it, I am hoping to try during this semester since it seems to relate to this class."
-L,Accountancy,0,Accountancy,,1,2,116,"Due to my weak background with this information, there isn't any sort of topic on the top of my head that I want to particularly learn. "
-L,"Information Systems,Marketing",1,Information Systems,Marketing,1,2,182,I'd like to practice my python skills a lot and really understand data mining.
-L,Finance,0,Finance,,0,1,292,Nothing in specific other than learning how to write and edit code. 
-L,"Accountancy,Other (If Other\, please share at bottom)",1,Accountancy,Data Science,1,3,253,"nothing in particular as I am still not sure exactly what data science is. Anything I learn will be interesting to me as this is mostly all new to me. Ultimately I want to be able to look at a data set and be able to make it so anyone, especially those who do not know anything about data science, is able to decipher what the data is saying. "
-L,"Finance,Supply Chain Management",1,Finance,Supply Chain Management,1,2,154,Coding combined with excel
-L,Accountancy,0,Accountancy,,1,3,240,I would like to go back over moving data between multiple files using code again. 
-L,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,40,How to code a bigger project or spend a long time conceptualizing and creating code.
-L,Accountancy,0,Accountancy,,1,3,71,python code
-,Finance,0,Finance,,1,2,213,I am interested it all mostly and I think I really just want to learn more about python. 
-L,Finance,0,Finance,,1,4,381,How to create algorithms using historical data. There are a couple methods I used but they're really rudimentary and not really effective. 
-L,Accountancy,0,Accountancy,,1,2,204,I would like to learn about the Google Collab because it seems like something that I should already know but don't.
-L,Accountancy,0,Accountancy,,1,2,369,I would like to learn more about data algorithms and how modern business jobs use them to do their jobs. For example different algorithms that can help accountants etc. 
-L,Marketing,0,Marketing,,1,2,211,I would like to learn about data mining as well as refreshers on how to write simple code lines. I would also like to learn more about python and Jupyter.
-L,"Accountancy,Finance",1,Accountancy,Finance,1,2,168,I am interested in most of the topics listed on the syllabus already. 
-L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,243,"There is nothing, in particular, I would like to learn about in this course, just hoping to learn something new and improve my python coding skills. "
-L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,253,"I think it would be interesting to learn more about data relating to social media, like we discussed in class today with the flagging of posts."
-L,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,141,Basically what I'm interested in is included in the syllabus.
-L,Accountancy,0,Accountancy,,1,2,112,How to use phyton and how we could apply it in real-world situation?
-L,"Finance,Information Systems",1,Finance,Information Systems,0,2,60,"Data Sorting, annualizing , and Cleaning. "
-L,Accountancy,0,Accountancy,,0,2,182,I'd like to review the basics of python so I can develop my skills throughout the course. 
-L,Accountancy,0,Accountancy,,1,3,21,thoughts about coding in more details and applications about detailed problems
-L,Accountancy,0,Accountancy,,0,3,82,I would like to learn how to write a code that could run a unique program that could maybe help with sports statistics or something along those lines.
-L,"Finance,Information Systems",1,Finance,Information Systems,1,2,125,I think talking about organizing sports data such as shot percentage or something like yards per carry would be cool.
-L,"Information Systems,Management",1,Information Systems,Management,1,3,220,I definitely want to learn more about python and writing code.
-L,Undeclared,0,Undeclared,,1,1,133,"Not really, I haven’t really thought about the topics.
-
- "
-L,"Accountancy,Finance",1,Accountancy,Finance,1,5,114,not really. nothing in specific. 
-D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,195,I'm always interested in learning more about Tableau and Excel.
-D,"Accountancy,Finance",1,Accountancy,Finance,0,4,432,I am satisfied with the topics covered in this course. There are not any additional topics or applications that I'd like to learn about in this course.
-D,Accountancy,0,Accountancy,,1,3,108,I would like to learn more about how python relates to what I have learned in BADM 210 which are topics like z-scores and probability distributions.
-D,"Finance,Marketing",1,Finance,Marketing,1,2,71,Im excited to learn more about python and how we can apply it to data.
-D,Accountancy,0,Accountancy,,0,1,113,I am not sure what can I learn now.
-D,Strategic Business Development & Entrepreneurship,0,Strategic Business Development & Entrepreneurship,,1,1,251,Social media data analytics and how to gather that information.
-D,Finance,0,Finance,,1,1,136,I'm really interested in how social media algorithms work and would love to learn more about them
-D,Information Systems,0,Information Systems,,0,3,246,"I'm hoping to apply some of these skills to my other information systems classes. Overall, I'm interested in learning about Data Science and how it is useful to a company and business. "
-D,Accountancy,0,Accountancy,,1,2,129,I would like to learn how to set up a predictive model when analyzing or grouping data.
-D,"Accountancy,Finance",1,Accountancy,Finance,1,2,260,No there are not.
-H,Information Systems,0,Information Systems,,0,2,221,"Information security, coding, data analytics, data science, etc."
-D,"Accountancy,Strategic Business Development & Entrepreneurship",1,Accountancy,Strategic Business Development & Entrepreneurship,1,3,116,no
-D,Finance,0,Finance,,1,1,139,Twitter algorithm 
-D,"Accountancy,Finance",1,Accountancy,Finance,1,1,374,How can coding be applied in the real world and career opportunities from a non-programming perspective
-D,Finance,0,Finance,,0,2,150,"I do not have any topics or applications in particular that I would like to learn about. However, it would be interesting to see the Python coding behind coding bots for website purchases."
-D,Finance,0,Finance,,0,5,75,Not particularly. Maybe just real-world applications of the concepts and examples.
-D,"Finance,Marketing",1,Finance,Marketing,1,2,148,I would like to learn more about data mining and how to protect my own data privacy. 
-D,Accountancy,0,Accountancy,,1,1,90,I don't know much about data analytics but I think that just learning how to organize and utilize useful data is important and would be very helpful.
-D,"Accountancy,Finance",1,Accountancy,Finance,1,3,239,Not at the moment that I could think of 
-D,Accountancy,0,Accountancy,,1,2,343,I don't have any specific topics/applications that I can think of that I'd like to learn.
-D,Accountancy,0,Accountancy,,0,5,255,I would love to see how Python and Excel can be incorporated with each other. I would like to write my own code in Python and hopefully import or write it in as an excel file. 
-D,Management,0,Management,,1,1,239,Since I am not too familiar with all of this I hope to learn how to code better as well as how to use data mining in real life scenarios. 
-D,"Marketing,Other (If Other\, please share at bottom)",1,Marketing,,1,3,271,I don't have any particular topics or applications that I want to learn about. I would just like to be comfortable with coding and data.
-D,"Information Systems,Supply Chain Management",1,Information Systems,Supply Chain Management,1,1,275,I am looking forward to learning more about Python.
-D,Finance,0,Finance,,1,3,64,Data mining 
-D,Accountancy,0,Accountancy,,1,4,125,I would love to learn more about cryptocurrency
-D,"Finance,Information Systems",1,Finance,Information Systems,0,2,228,"Not particularly, I want to learn and do my best to ensure I get the most out of the course I possibly can. "
-D,"Information Systems,Operations Management",1,Information Systems,Operations Management,0,2,88,There is nothing specific that I want to learn just the class overall. 
-D,Marketing,0,Marketing,,0,2,151,What is the most efficient way to collect data?
-D,"Information Systems,Marketing",1,Information Systems,Marketing,1,1,75,"I like learning in general, not too picky. "
-D,"Marketing,Supply Chain Management",1,Marketing,Supply Chain Management,1,1,245,Anything. Application in supply chain management
-D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,81,"Python refresher, and possibly more advanced uses of Python"
-D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,38,I would like to learn more python.
-H,Accountancy,0,Accountancy,,1,3,116,Topics about finance or healthcare industry
-L,"Finance,Other (If Other\, please share at bottom)",1,Finance,Statistics,1,3,68,none that come to mind
-H,Finance,0,Finance,,0,3,476,"Possibly another programming language other than Python. Otherwise, I'm open to whatever comes my way in this course."
-H,Accountancy,0,Accountancy,,1,1,236,Nothing in particular because I am not familiar with any topics or applications. 
-,Marketing,0,Marketing,,1,1,134,I am wondering if we will get a chance to more than interpret data also make it into a presentation using tools such as tableau. 
-H,Finance,0,Finance,,1,1,76,Unsure ready to learn anything and everything
-H,Accountancy,0,Accountancy,,0,2,295,Just generally how to write Python and be able to use it and understand its functions.
-H,Strategic Business Development & Entrepreneurship,0,Strategic Business Development & Entrepreneurship,,0,2,532,"Maybe some form of web application and what truly goes into doing it. However, if we don't cover this material throughout the course, then being informed on what resources could provide me with the most information would be equally as helpful. "
-H,Finance,0,Finance,,1,2,213,How to implement data science into your coding and how the two connect. Also better my understanding of predictive analysis.
-H,Supply Chain Management,0,Supply Chain Management,,1,2,10,Data mining
-H,"Accountancy,Finance",1,Accountancy,Finance,1,3,128,I would love to learn more about data and stock investments related to data mining.
-H,Management,0,Management,,0,2,185,"Not anything specific, I just want to be more comfortable using Python and writing code, even if it's all just simple for beginners."
-H,Information Systems,0,Information Systems,,1,3,164,Nothing I can think of in particular. 
-H,Finance,0,Finance,,0,3,57,Not really but open to anything and ready to learn.
-H,"Accountancy,Finance",1,Accountancy,Finance,0,2,125,I look forward to expanding my python skills to better prepare myself for future career opportunities.  
-L,"Finance,Information Systems",1,Finance,Information Systems,0,3,82,
-H,"Information Systems,Marketing",1,Information Systems,Marketing,0,2,91,"Not that I know of, but I would love to know how Twitter and other social media grasp what a user like by using a small data pool. "
-D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,244,Applications to accounting
-D,Accountancy,0,Accountancy,,1,2,132,
-L,Finance,0,Finance,,1,3,188,I want to learn how to use code to automate certain business processes that save time and identify key trends. 
-L,Accountancy,0,Accountancy,,1,4,273,"I would like to learn more about the role Python and programming play in business-related activities across different areas of business (Accountancy, Finance, Marketing, etc.) "
-L,"Accountancy,Finance",1,Accountancy,Finance,1,1,99,I would like to learn how to use python!
-H,Finance,0,Finance,,0,1,66,Python 
-L,"Finance,Information Systems",1,Finance,Information Systems,1,2,136,"I am unsure if SQL will be part of this course, but I hope to learn more about this eventually."
-L,Accountancy,0,Accountancy,,0,2,132,"No, not yet."
-L,"Marketing,Strategic Business Development & Entrepreneurship",1,Marketing,Strategic Business Development & Entrepreneurship,1,2,420,"I don't really even know enough about the topic to know what I want to learn, but I am open and excited to learn regardless!"
+section,majors,double_major,major1,major2,cs105,python_comfort,goals_char,ID
+D,"Accountancy,Finance",1,Accountancy,Finance,0,4,85,307
+D,Accountancy,0,Accountancy,,1,2,91,253
+H,Finance,0,Finance,,1,2,218,419
+H,"Marketing,Supply Chain Management",1,Marketing,Supply Chain Management,1,1,175,351
+L,Marketing,0,Marketing,,0,2,247,175
+D,Accountancy,0,Accountancy,,1,3,48,430
+D,Marketing,0,Marketing,,0,2,52,143
+H,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,98,353
+L,Accountancy,0,Accountancy,,1,3,142,420
+H,"Information Systems,Supply Chain Management",1,Information Systems,Supply Chain Management,1,2,286,192
+H,"Accountancy,Finance",1,Accountancy,Finance,1,5,98,391
+L,"Accountancy,Finance",1,Accountancy,Finance,0,2,139,249
+L,Marketing,0,Marketing,,1,3,166,445
+L,"Accountancy,Finance",1,Accountancy,Finance,1,4,74,139
+L,"Information Systems,Marketing",1,Information Systems,Marketing,1,1,145,104
+D,"Information Systems,Marketing",1,Information Systems,Marketing,1,2,224,125
+L,"Finance,Information Systems",1,Finance,Information Systems,1,4,199,116
+H,Marketing,0,Marketing,,0,2,253,471
+H,Undeclared,0,Undeclared,,1,2,97,231
+D,Accountancy,0,Accountancy,,1,2,27,193
+H,"Accountancy,Finance",1,Accountancy,Finance,1,1,59,379
+L,"Finance,Information Systems",1,Finance,Information Systems,1,2,132,150
+H,Finance,0,Finance,,1,2,299,179
+D,"Finance,Information Systems",1,Finance,Information Systems,1,3,51,273
+D,Undeclared,0,Undeclared,,1,4,230,498
+L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,149,497
+H,Finance,0,Finance,,1,2,196,276
+H,"Accountancy,Other (If Other\, please share at bottom)",1,Accountancy,Marketing,1,5,428,464
+H,"Operations Management,Supply Chain Management",1,Operations Management,Supply Chain Management,1,2,298,204
+L,Accountancy,0,Accountancy,,1,2,116,209
+L,"Information Systems,Marketing",1,Information Systems,Marketing,1,2,182,199
+L,Finance,0,Finance,,0,1,292,336
+L,"Accountancy,Other (If Other\, please share at bottom)",1,Accountancy,Operations Management,1,3,253,237
+L,"Finance,Supply Chain Management",1,Finance,Supply Chain Management,1,2,154,374
+L,Accountancy,0,Accountancy,,1,3,240,165
+L,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,40,244
+L,Accountancy,0,Accountancy,,1,3,71,262
+,Finance,0,Finance,,1,2,213,357
+L,Finance,0,Finance,,1,4,381,149
+L,Accountancy,0,Accountancy,,1,2,204,229
+L,Accountancy,0,Accountancy,,1,2,369,464
+L,Marketing,0,Marketing,,1,2,211,319
+L,"Accountancy,Finance",1,Accountancy,Finance,1,2,168,413
+L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,243,374
+L,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,253,149
+L,"Information Systems,Marketing",1,Information Systems,Marketing,1,3,141,240
+L,Accountancy,0,Accountancy,,1,2,112,368
+L,"Finance,Information Systems",1,Finance,Information Systems,0,2,60,235
+L,Accountancy,0,Accountancy,,0,2,182,112
+L,Accountancy,0,Accountancy,,1,3,21,147
+L,Accountancy,0,Accountancy,,0,3,82,223
+L,"Finance,Information Systems",1,Finance,Information Systems,1,2,125,340
+L,"Information Systems,Management",1,Information Systems,Management,1,3,220,497
+L,Undeclared,0,Undeclared,,1,1,133,387
+L,"Accountancy,Finance",1,Accountancy,Finance,1,5,114,210
+D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,195,341
+D,"Accountancy,Finance",1,Accountancy,Finance,0,4,432,215
+D,Accountancy,0,Accountancy,,1,3,108,229
+D,"Finance,Marketing",1,Finance,Marketing,1,2,71,378
+D,Accountancy,0,Accountancy,,0,1,113,146
+D,Strategic Business Development & Entrepreneurship,0,Strategic Business Development & Entrepreneurship,Information Systems,1,1,251,138
+D,Finance,0,Finance,,1,1,136,296
+D,Information Systems,0,Information Systems,,0,3,246,257
+D,Accountancy,0,Accountancy,,1,2,129,499
+D,"Accountancy,Finance",1,Accountancy,Finance,1,2,260,275
+H,Information Systems,0,Information Systems,,0,2,221,139
+D,"Accountancy,Strategic Business Development & Entrepreneurship",1,Accountancy,Strategic Business Development & Entrepreneurship,1,3,116,169
+D,Finance,0,Finance,,1,1,139,408
+D,"Accountancy,Finance",1,Accountancy,Finance,1,1,374,443
+D,Finance,0,Finance,,0,2,150,171
+D,Finance,0,Finance,,0,5,75,185
+D,"Finance,Marketing",1,Finance,Marketing,1,2,148,197
+D,Accountancy,0,Accountancy,,1,1,90,106
+D,"Accountancy,Finance",1,Accountancy,Finance,1,3,239,301
+D,Accountancy,0,Accountancy,,1,2,343,182
+D,Accountancy,0,Accountancy,,0,5,255,438
+D,Management,0,Management,,1,1,239,301
+D,"Marketing,Other (If Other\, please share at bottom)",1,Marketing,,1,3,271,103
+D,"Information Systems,Supply Chain Management",1,Information Systems,Supply Chain Management,1,1,275,100
+D,Finance,0,Finance,,1,3,64,309
+D,Accountancy,0,Accountancy,,1,4,125,305
+D,"Finance,Information Systems",1,Finance,Information Systems,0,2,228,130
+D,"Information Systems,Operations Management",1,Information Systems,Operations Management,0,2,88,161
+D,Marketing,0,Marketing,,0,2,151,342
+D,"Information Systems,Marketing",1,Information Systems,Marketing,1,1,75,463
+D,"Marketing,Supply Chain Management",1,Marketing,Supply Chain Management,1,1,245,258
+D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,81,365
+D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,2,38,303
+H,Accountancy,0,Accountancy,,1,3,116,404
+L,"Finance,Other (If Other\, please share at bottom)",1,Finance,Statistics,1,3,68,305
+H,Finance,0,Finance,,0,3,476,233
+H,Accountancy,0,Accountancy,,1,1,236,424
+,Marketing,0,Marketing,,1,1,134,317
+H,Finance,0,Finance,,1,1,76,200
+H,Accountancy,0,Accountancy,,0,2,295,420
+H,Strategic Business Development & Entrepreneurship,0,Strategic Business Development & Entrepreneurship,,0,2,532,359
+H,Finance,0,Finance,,1,2,213,188
+H,Supply Chain Management,0,Supply Chain Management,,1,2,10,139
+H,"Accountancy,Finance",1,Accountancy,Finance,1,3,128,387
+H,Management,0,Management,,0,2,185,423
+H,Information Systems,0,Information Systems,,1,3,164,271
+H,Finance,0,Finance,,0,3,57,473
+H,"Accountancy,Finance",1,Accountancy,Finance,0,2,125,361
+L,"Finance,Information Systems",1,Finance,Information Systems,0,3,82,171
+H,"Information Systems,Marketing",1,Information Systems,Marketing,0,2,91,363
+D,"Accountancy,Information Systems",1,Accountancy,Information Systems,1,1,244,203
+D,Accountancy,0,Accountancy,,1,2,132,319
+L,Finance,0,Finance,,1,3,188,344
+L,Accountancy,0,Accountancy,,1,4,273,141
+L,"Accountancy,Finance",1,Accountancy,Finance,1,1,99,455
+H,Finance,0,Finance,,0,1,66,461
+L,"Finance,Information Systems",1,Finance,Information Systems,1,2,136,230
+L,Accountancy,0,Accountancy,,0,2,132,150
+L,"Marketing,Strategic Business Development & Entrepreneurship",1,Marketing,Strategic Business Development & Entrepreneurship,1,2,420,194
